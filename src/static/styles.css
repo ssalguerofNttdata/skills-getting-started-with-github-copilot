@@ -159,7 +159,7 @@ footer {
 }
 
 .participants-list {
-  list-style-type: disc;
+  list-style-type: none;
   margin-left: 20px;
   margin-bottom: 0;
   color: #333;
